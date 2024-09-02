@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\formas\formas\bin\Debug\formas.exe.config
+C:\Users\Alumno\source\repos\formas\formas\bin\Debug\formas.exe
+C:\Users\Alumno\source\repos\formas\formas\bin\Debug\formas.pdb
+C:\Users\Alumno\source\repos\formas\formas\obj\Debug\formas.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\formas\formas\obj\Debug\formas.Form1.resources
+C:\Users\Alumno\source\repos\formas\formas\obj\Debug\formas.Properties.Resources.resources
+C:\Users\Alumno\source\repos\formas\formas\obj\Debug\formas.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\formas\formas\obj\Debug\formas.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\formas\formas\obj\Debug\formas.exe
+C:\Users\Alumno\source\repos\formas\formas\obj\Debug\formas.pdb
